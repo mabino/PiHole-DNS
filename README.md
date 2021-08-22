@@ -6,8 +6,8 @@ DNS filtering at home.  Configured with the following customizations [post-autom
 
 Custom block lists added to the Pi-hole under Adlists within Group Management.
 
-* [Everything List from The Blocklist Project](/blocklistproject/Lists#lists)
-* Generated IPv4 and IPv6 Lists from [The YouTube ads blocklist project](/Ewpratten/youtube_ad_blocklist)
+* [Everything List from The Blocklist Project](https://github.com/blocklistproject/Lists#lists)
+* Generated IPv4 and IPv6 Lists from [The YouTube ads blocklist project](https://github.com/Ewpratten/youtube_ad_blocklist)
 
 ## Upstream DNS Servers
 
