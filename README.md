@@ -1,6 +1,6 @@
 # Pi-hole DNS
 
-DNS filtering at home.
+DNS filtering at home.  Configured with the following customizations [post-automated install](/pi-hole/pi-hole/#one-step-automated-install).
 
 ## Lists
 
