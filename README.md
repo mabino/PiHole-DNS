@@ -21,12 +21,17 @@ Custom block lists added to the Pi-hole under Adlists within Group Management.
 
 [Cloudflare](https://1.1.1.2) malware content blocking.
 
+
 `1.1.1.2`
 
 ### Custom 3 (IPv6)
 
+[Cloudflare](https://1.1.1.3) malware and adult content blocking.
+
 `2606:4700:4700::1113`
 
 ### Custom 4 (IPv6)
+
+[Cloudflare](https://1.1.1.2) malware content blocking.
 
 `2606:4700:4700::1112`
