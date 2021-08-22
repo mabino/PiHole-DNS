@@ -35,3 +35,7 @@ Custom block lists added to the Pi-hole under Adlists within Group Management.
 [Cloudflare](https://1.1.1.2) malware content blocking.
 
 `2606:4700:4700::1112`
+
+## Use Conditional Forwarding
+
+Enable conditional forwarding for Local network `192.168.7.0/16`, with a DHCP server of `192.168.7.1` and a local domain of `bean`.
